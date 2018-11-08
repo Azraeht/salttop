@@ -1,6 +1,6 @@
 prod:
   'minion1':
-    - nginx
+    - apache
 staging:
   'minion2':
     - apache
