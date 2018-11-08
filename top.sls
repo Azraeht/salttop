@@ -1,6 +1,6 @@
 prod:
   'minion1':
-    - apache
+    - http
 staging:
   'minion2':
-    - apache
+    - http
